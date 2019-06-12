@@ -1,1 +1,3 @@
-theme: jekyll-theme-slate
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+url: "https://musalys.github.io"
+baseurl: ""
