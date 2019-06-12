@@ -1,3 +1,11 @@
 remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
-url: "https://musalys.github.io"
-baseurl: ""
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Robert's Archives"
+title_separator          : "-"
+name                     : "Robert"
+description              : "Robert's TIL and Thoughts."
+url                      : "https://musalys.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "musalys/musalys.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
